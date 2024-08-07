@@ -1,0 +1,11 @@
+html {
+    direction: rtl !important;
+}
+
+body {
+    direction: rtl !important;
+}
+
+* {
+    direction: rtl !important;
+}
