@@ -1,5 +1,6 @@
 html {
     direction: rtl !important;
+    background-color: white !important;
 }
 
 body {
@@ -9,3 +10,4 @@ body {
 * {
     direction: rtl !important;
 }
+
