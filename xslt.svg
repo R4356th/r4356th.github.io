@@ -2,3 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="https://r4356th.github.io/xslt.xsl" ?>
 <svg>
 </svg>
+<oembed>
+	<description><?xml-stylesheet type="text/xsl" href="https://r4356th.github.io/xslt.xsl" ?>Test</description>
+	
+</oembed>
