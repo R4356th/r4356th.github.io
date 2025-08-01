@@ -1,13 +1,36 @@
 html {
-    direction: rtl !important;
-    background-color: white !important;
+  font-family: Arial, 'sans-serif';
+}
+
+h1 {
+  font-weight: bold;
+  color: white;
+}
+
+h1::selection {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+p::selection {
+  color: yellow;
 }
 
 body {
-    direction: rtl !important;
+  background-color: black;
 }
 
-* {
-    direction: rtl !important;
+a::selection {
+  color: white;
 }
 
+i::selection {
+  color: darkred;
+}
+
+a {
+  color: violet;
+}
