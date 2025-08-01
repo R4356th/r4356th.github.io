@@ -11,11 +11,11 @@ h1::selection {
   color: red;
 }
 
-p {
+p, li {
   color: green;
 }
 
-p::selection {
+p::selection, li::selection {
   color: yellow;
 }
 
