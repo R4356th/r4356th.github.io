@@ -24,7 +24,7 @@ body {
 }
 
 a::selection {
-  color: white;
+  color: violet;
 }
 
 i::selection {
@@ -32,5 +32,5 @@ i::selection {
 }
 
 a {
-  color: violet;
+  color: white;
 }
